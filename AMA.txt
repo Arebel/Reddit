@@ -65,6 +65,5 @@ Personal Questions|Answers
 [15) How has it been living in an entire different continent with four or more complete strangers for possibly the first time in your life? Do you think you could do it again?](#context=15)|[15) *InsertAnswerHere*](#context=15)
 16) If you hadn't become professional in League, what line of work would you have loved to employ yourself with?|16) *InsertAnswerHere*
 [17) Do you keep in touch with Deficio?](#context=17)|[17) *InsertAnswerHere*](#context=17)
-18) Have your ever been in love?|18) *InsertAnswerHere*
-[19) Why are you so amazingly great?](#context=19)|[19) *InsertAnswerHere*](#context=19)
-20) And why are you so goddamn hot?|20) *InsertAnswerHere*
+18) Why are you so goddamn hot?|18) *InsertAnswerHere*
+[19) And why are you so amazingly great?](#context=19)|[19) *InsertAnswerHere*](#context=19)
